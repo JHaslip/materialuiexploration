@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+### Building a responsive webpage via material ui and react.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
 ## Available Scripts
 
